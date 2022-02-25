@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @undove
 - 👀 I’m interested in Game Development and AI.
-- 🌱 I’m currently learning C# and Python.
-- 📫 How to reach me: undovee@gmail.com or undove#0001 on discord!
+- 🌱 I’m currently learning C#, C++ and Python.
