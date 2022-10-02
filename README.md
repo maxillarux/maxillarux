@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @undove
 - 👀 I’m interested in Game Development and AI.
-- 🌱 I’m currently learning C#, C++ and Python.
+- 🌱 I’m currently learning C#, C++, Java, GML, and Python.
