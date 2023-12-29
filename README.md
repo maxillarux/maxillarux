@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @undove
-- 👀 I’m interested in Game Development and AI.
-- 🌱 I’m currently learning C#, C++, Java, GML, and Python.
+- 👋 Hi, I’m @maxillar
+- 👀 I’m interested in UI/UX, illustration, front-end development, and video game development.
+- 🌱 I’m currently learning C#, HTML, CSS, and Figma.
