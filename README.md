@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @maxillar
+- 👋 Hi, I’m @maxillarux
 - 👀 I’m interested in UI/UX, illustration, front-end development, and video game development.
 - 🌱 I’m currently learning C#, HTML, CSS, and Figma.
